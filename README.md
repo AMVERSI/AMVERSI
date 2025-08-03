@@ -1,7 +1,7 @@
  # ** About Me **
+ - Aspiring Cybersecurity and AI Professional
  - Interested in Front-End Development, UI/UX Design & System Analysis
-- Aspiring Cybersecurity and Cloud Professional
-- Hobbies Include Travelling, Hiking, Soccer, Camping
+ - Hobbies Include Travelling, Hiking, Soccer, Camping
 
 
 ### ** Programming Languages that I'm familiar with **
