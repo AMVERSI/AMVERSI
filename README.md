@@ -1,6 +1,6 @@
  # ** About Me **
  - Aspiring Cybersecurity and AI Professional
- - Interested in Front-End Development, UI/UX Design & System Analysis
+ - Interested in Front-End Development, UI/UX Design & System Analysis, Software testing, User acceptance testing
  - Hobbies Include Travelling, Hiking, Soccer, Camping
 
 
